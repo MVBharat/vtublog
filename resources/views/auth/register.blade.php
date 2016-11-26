@@ -1,6 +1,10 @@
 @extends('app')
 
+
 @section('content')
+	<html>
+	<body id="page-top">
+	<section id="register">
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2">
@@ -62,4 +66,7 @@
 		</div>
 	</div>
 </div>
+		</section>
+	</body>
+	</html>
 @endsection
